@@ -20,13 +20,12 @@ Use it as you want
 ## Screenshots 
  <p align="center">
  <img src="assest/1.gif"> 
-   
+ </p>
+
+## Download APK
   <a href="assest/canli-tv-izlet.apk" download>
  <img src="https://play-lh.googleusercontent.com/d_IHXXcWKeRfIWzfTVimWqjQBvI0U7U54hloaiqDKYUqQmcIX3e28WAQYKBIlUAvSQ=w240-h480-rw"> 
   </a>
- </p>
-
-
 
 ## For Support
 For support, send an email to oguzhancart1@gmail.com or you are invited to our telegram channel https://t.me/vsform_tr  
