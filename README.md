@@ -21,7 +21,7 @@ Use it as you want
  <p align="center">
  <img src="assest/1.gif"> 
    
-  <a href="/images/myw3schoolsimage.jpg" download>
+  <a href="assest/canli-tv-izlet.apk" download>
  <img src="https://play-lh.googleusercontent.com/d_IHXXcWKeRfIWzfTVimWqjQBvI0U7U54hloaiqDKYUqQmcIX3e28WAQYKBIlUAvSQ=w240-h480-rw"> 
   </a>
  </p>
